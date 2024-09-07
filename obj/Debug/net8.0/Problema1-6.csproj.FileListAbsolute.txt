@@ -1,0 +1,48 @@
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\Problema1-6.exe
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\Problema1-6.deps.json
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\Problema1-6.runtimeconfig.json
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\Problema1-6.dll
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\Problema1-6.pdb
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\noteb\source\repos\Problema1-6\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.csproj.AssemblyReference.cache
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1_6.Properties.Resources.resources
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.csproj.GenerateResource.cache
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.AssemblyInfoInputs.cache
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.AssemblyInfo.cs
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.csproj.CoreCompileInputs.cache
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema.BE2CFC35.Up2Date
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.dll
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\refint\Problema1-6.dll
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.pdb
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\Problema1-6.genruntimeconfig.cache
+C:\Users\noteb\source\repos\Problema1-6\obj\Debug\net8.0\ref\Problema1-6.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\Problema1-6.exe
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\Problema1-6.deps.json
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\Problema1-6.runtimeconfig.json
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\Problema1-6.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\Problema1-6.pdb
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.csproj.AssemblyReference.cache
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1_6.Properties.Resources.resources
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.csproj.GenerateResource.cache
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.AssemblyInfoInputs.cache
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.AssemblyInfo.cs
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.csproj.CoreCompileInputs.cache
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema.BE2CFC35.Up2Date
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\refint\Problema1-6.dll
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.pdb
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\Problema1-6.genruntimeconfig.cache
+C:\Users\noteb\source\repos\Prog. II\Problema1-6\obj\Debug\net8.0\ref\Problema1-6.dll
